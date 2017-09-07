@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StickIndicator">
+        <attr name="indicator_height" format="dimension" />
+        <attr name="indicator_width" format="dimension" />
+        <attr name="indicator_radiusX" format="dimension" />
+        <attr name="indicator_radiusY" format="dimension" />
+        <attr name="indicator_interval" format="dimension" />
+        <attr name="indicator_inactiveColor" format="color" />
+        <attr name="indicator_activeColor" format="color" />
+        <attr name="android:gravity" />
+    </declare-styleable>
+</resources>
