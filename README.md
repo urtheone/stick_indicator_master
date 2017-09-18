@@ -1,6 +1,7 @@
 # stick_indicator_master
 stikness viewpager indicator can be highly customized
 显示效果如下图：
+ ![](/demo.gif)
 
 属性:通过设置角度、宽高可以实现任何形状。
     
@@ -11,5 +12,5 @@ stikness viewpager indicator can be highly customized
     app:indicator_inactiveColor="@color/indicator_inactive_color"
     app:indicator_radiusX="0dp"//x方向角度
     app:indicator_radiusY="0dp"//y方向角度
-![](/demo.gif)
+   
 
