@@ -11,8 +11,5 @@ stikness viewpager indicator can be highly customized
     app:indicator_inactiveColor="@color/indicator_inactive_color"
     app:indicator_radiusX="0dp"//x方向角度
     app:indicator_radiusY="0dp"//y方向角度
-
-<iframe height=300 width=300 src="/Users/leo/Desktop/movie.gif">
-
-
+![](/demo.gif)
 
